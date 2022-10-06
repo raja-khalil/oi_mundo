@@ -1,0 +1,1 @@
+Esse arquivo pertence ao tutorial sobre Git e GitHurb elaborado por Raja Khalil.
